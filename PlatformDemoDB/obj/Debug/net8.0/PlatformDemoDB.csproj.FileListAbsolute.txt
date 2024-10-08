@@ -1,0 +1,14 @@
+C:\Users\Madam Samm\source\repos\PlatformDemo\PlatformDemoDB\bin\Debug\net8.0\PlatformDemoDB.deps.json
+C:\Users\Madam Samm\source\repos\PlatformDemo\PlatformDemoDB\bin\Debug\net8.0\PlatformDemoDB.runtimeconfig.json
+C:\Users\Madam Samm\source\repos\PlatformDemo\PlatformDemoDB\bin\Debug\net8.0\PlatformDemoDB.dll
+C:\Users\Madam Samm\source\repos\PlatformDemo\PlatformDemoDB\bin\Debug\net8.0\PlatformDemoDB.pdb
+C:\Users\Madam Samm\source\repos\PlatformDemo\PlatformDemoDB\obj\Debug\net8.0\PlatformDemoDB.csproj.AssemblyReference.cache
+C:\Users\Madam Samm\source\repos\PlatformDemo\PlatformDemoDB\obj\Debug\net8.0\PlatformDemoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madam Samm\source\repos\PlatformDemo\PlatformDemoDB\obj\Debug\net8.0\PlatformDemoDB.AssemblyInfoInputs.cache
+C:\Users\Madam Samm\source\repos\PlatformDemo\PlatformDemoDB\obj\Debug\net8.0\PlatformDemoDB.AssemblyInfo.cs
+C:\Users\Madam Samm\source\repos\PlatformDemo\PlatformDemoDB\obj\Debug\net8.0\PlatformDemoDB.csproj.CoreCompileInputs.cache
+C:\Users\Madam Samm\source\repos\PlatformDemo\PlatformDemoDB\obj\Debug\net8.0\PlatformDemoDB.dll
+C:\Users\Madam Samm\source\repos\PlatformDemo\PlatformDemoDB\obj\Debug\net8.0\refint\PlatformDemoDB.dll
+C:\Users\Madam Samm\source\repos\PlatformDemo\PlatformDemoDB\obj\Debug\net8.0\PlatformDemoDB.pdb
+C:\Users\Madam Samm\source\repos\PlatformDemo\PlatformDemoDB\obj\Debug\net8.0\PlatformDemoDB.genruntimeconfig.cache
+C:\Users\Madam Samm\source\repos\PlatformDemo\PlatformDemoDB\obj\Debug\net8.0\ref\PlatformDemoDB.dll
